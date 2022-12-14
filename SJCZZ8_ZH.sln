@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32802.462
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SJCZZ8_FormsApp", "SJCZZ8_FormsApp\SJCZZ8_FormsApp.csproj", "{AAEA1827-7108-456E-883E-651D32C9F992}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SJCZZ8_API", "SJCZZ8_API\SJCZZ8_API.csproj", "{792B10F2-5266-4428-A3C8-F505511C5F33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAEA1827-7108-456E-883E-651D32C9F992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAEA1827-7108-456E-883E-651D32C9F992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAEA1827-7108-456E-883E-651D32C9F992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAEA1827-7108-456E-883E-651D32C9F992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{792B10F2-5266-4428-A3C8-F505511C5F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{792B10F2-5266-4428-A3C8-F505511C5F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{792B10F2-5266-4428-A3C8-F505511C5F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{792B10F2-5266-4428-A3C8-F505511C5F33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EC927DA-7FE2-4441-863D-CEE062FCEAE5}
+	EndGlobalSection
+EndGlobal
